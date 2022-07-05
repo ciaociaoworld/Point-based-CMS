@@ -1,6 +1,6 @@
 # Point-based Content Management System
 
-## <a href>="https://git.heroku.com/pristine-wind-cave-54270.git"/>Click Here</a>
+## <a href="https://ciaociaoworld.surge.sh">Click Here</a>
 
 ## Background of this App
 <p>This app was built based on the theory of Meerit Points Management. </p>
